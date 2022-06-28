@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+ingest_data.py
+license.txt
+score.py
+setup.py
+train.py
+basic_rfregressor.egg-info/PKG-INFO
+basic_rfregressor.egg-info/SOURCES.txt
+basic_rfregressor.egg-info/dependency_links.txt
+basic_rfregressor.egg-info/top_level.txt
+main/__init__.py
+main/test.py

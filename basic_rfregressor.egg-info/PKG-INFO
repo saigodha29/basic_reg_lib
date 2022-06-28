@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: basic-rfregressor
+Version: 0.0.1
+Summary: A very basic regression model
+Home-page: 
+Author: saigodha
+Author-email: saikumar.godha@tigeranalytics.com
+License: MIT
+Keywords: brfregressor
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+License-File: license.txt
+
+UNKNOWN
+
